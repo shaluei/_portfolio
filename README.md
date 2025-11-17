@@ -8,7 +8,7 @@ It is fully deployed online and connected to a GitHub repository for version con
 
 GitHub Repository: [https://github.com/shaluei/_portfolio.git]
 
-Live Website: []
+Live Website: [portfolio-orcin-zeta-37.vercel.app]
 
 📁 Features
 
