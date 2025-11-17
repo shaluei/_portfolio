@@ -1,16 +1,42 @@
-# React + Vite
+Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Personal Portfolio Website built using React + Vite.
+This website showcases my information, including my name, hobbies, skills, and personal interests.
+It is fully deployed online and connected to a GitHub repository for version control.
 
-Currently, two official plugins are available:
+🚀 Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+GitHub Repository: []
 
-## React Compiler
+Live Website: []
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📁 Features
 
-## Expanding the ESLint configuration
+Built with React using Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clean and responsive UI
+
+Sections for About Me, Skills, Projects, Contact, etc.
+
+Easy to update and customize
+
+Deployed using Vercel or Netlify
+
+🛠️ Technologies Used
+
+React
+
+Vite
+
+JavaScript
+
+CSS / Tailwind (if used)
+
+## Run Locally
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run dev`
+
+Git & GitHub
+
+Vercel / Netlify for deployment
