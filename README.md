@@ -6,7 +6,7 @@ It is fully deployed online and connected to a GitHub repository for version con
 
 🚀 Links
 
-GitHub Repository: []
+GitHub Repository: [https://github.com/shaluei/_portfolio.git]
 
 Live Website: []
 
